@@ -105,11 +105,6 @@ Message definitions are found in `lib/puzz_msgs.py`. You don’t need to manuall
 - Python 3.8+  
 - Packages: `numpy`, `matplotlib`, `json`.
 
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 ## Run the GUI Simulator
 
 ```bash
