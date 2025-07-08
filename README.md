@@ -26,8 +26,9 @@ This simulator supports both standalone virtual robots and real Puzzlebot hardwa
 
 It also includes simulation of different dynamiclal systems to learn control concepts such as Open and closed loop control, frequency anaalysis, system identification, etc. 
 
+
 <p align="center" >
-  <img src="https://github.com/user-attachments/assets/0283afef-7beb-42ae-ba6a-f23b684af5a6"  width="600"/>
+  <img src="https://github.com/user-attachments/assets/f072a4be-cf46-4709-bf4a-b3e9e6fba32f"  width="600"/>
 </p>
 
 
