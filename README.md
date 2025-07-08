@@ -35,7 +35,7 @@ It also includes simulation of different dynamiclal systems to learn control con
 - 📏 Simulated sensors:
   - Laser distance sensor (single beam)
   - 2D LiDAR scan
-  - Marker-based range and bearing sensor
+  - Marker-based range and bearing sensor (Aruco marker)
   - Servo motor for sensor rotation
 - 🧩 Customizable robot definitions via JSON files
 - 🔁 Compatible with real Puzzlebot via topic interfaces
@@ -96,7 +96,7 @@ Message definitions are found in `lib/puzz_msgs.py`. You don’t need to manuall
 ### Prerequisites
 
 - Python 3.8+  
-- Packages: `pygame`, `numpy`, `matplotlib`, `json`, etc.
+- Packages: `numpy`, `matplotlib`, `json`.
 
 ### Install Dependencies
 
