@@ -1,2 +1,19 @@
-# MCR2_python_sim
-Welcome to the official repository of the Puzzlebot Python Simulator, part of the SDK educational robotics suite by Manchester Robotics. 
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/Puzzlebot/blob/main/Misc/Logos/Puzzle_Bot_Logo_W.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/Puzzlebot/blob/main/Misc/Logos/Puzzle_Bot_Logo_B.png">
+  <img alt="Shows MCR2 logo in black or white." width="250" align="right">
+</picture>
+
+
+ <div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Puzzlebot Python Simulator</h1>
+    </summary>
+  </ul>
+</div>
+
+---
