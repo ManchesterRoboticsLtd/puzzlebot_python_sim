@@ -26,6 +26,11 @@ This simulator supports both standalone virtual robots and real Puzzlebot hardwa
 
 It also includes simulation of different dynamiclal systems to learn control concepts such as Open and closed loop control, frequency anaalysis, system identification, etc. 
 
+<p align="center" >
+  <img src="https://github.com/user-attachments/assets/0283afef-7beb-42ae-ba6a-f23b684af5a6"  width="600"/>
+</p>
+
+
 ---
 
 ## 🚀 Features
@@ -39,6 +44,7 @@ It also includes simulation of different dynamiclal systems to learn control con
   - Servo motor for sensor rotation
 - 🧩 Customizable robot definitions via JSON files
 - 🔁 Compatible with real Puzzlebot via topic interfaces
+- 📏 Build Your own worlds, with obstacles, markers and robots
 - 🧪 Perfect for teaching control, dead reckoning, and SLAM
 
 ---
